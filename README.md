@@ -1,4 +1,4 @@
-# HoloLens-2-Enhance-Object-Awareness-Using-Mini-Map
+# Enhance Human Object Awareness with HoloLens2 using Radar Map
 
 ## Overview
 In this application, we repurpose HoloLens' built-in sensors to enhance object awareness. In order to do so, we not only unlocked the Research Mode of HoloLens 2 to access all four environmental gray-scale cameras and performed ArUco Marker detection functionality, but also developed a radar mini-map UI to display the detected objects of interest in real-time both for objects within and outside the users' FoV(field of view).
